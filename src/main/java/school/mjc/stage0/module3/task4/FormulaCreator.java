@@ -1,7 +1,5 @@
 package school.mjc.stage0.module3.task4;
 
-import java.util.Scanner;
-
 public class FormulaCreator {
     public static void main(String[] args) {
         double a = 5, b = 3.2, c;
